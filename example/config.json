@@ -1,0 +1,12 @@
+{
+  
+  "clientId": "4RieotARQXpK6xTydeqYzQ==",
+  "clientKey": "jWM0pQDfNYY4D8KKRzDlLGLEglRhZ1JKDlizVARPdgg6EkpGk9DqiM-b4P6GYedilpn1QQ8ukQOMZGJmdZcVgA==",
+  
+  "port": 8000,
+
+  "https": false,
+  "sslKeyFile": "server.key",
+  "sslCrtFile": "server.crt"  
+
+}
